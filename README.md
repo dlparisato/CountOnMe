@@ -1,6 +1,6 @@
 # CountOnMe
 
-# CRITIQUES:
+# Remarque:
 
 Le design n’a pas été finalisé dans le projet Xcode : rien n’est responsive 
 
@@ -12,7 +12,7 @@ Seul la soustraction et l’addition ont été faits, il manque la division et l
 
 
 
-# SOLUTIONS:
+# Solution:
 
 Creer un prototype  Adobe XD
 

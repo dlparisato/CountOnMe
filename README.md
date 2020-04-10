@@ -16,7 +16,7 @@ Seul la soustraction et l’addition ont été faits, il manque la division et l
 
 Creer un prototype  Adobe XD
 
-Identifie  le Model 
+Identifier  le Model 
 
 Creer un fichier Calculator.swift dans le model 
 ...

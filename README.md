@@ -1,6 +1,6 @@
 # CountOnMe
 
-Critiques
+#Critique 
 
 Le design n’a pas été finalisé dans le projet Xcode : rien n’est responsive 
 

@@ -1,6 +1,6 @@
 # CountOnMe
 
-Critique 
+Critiques
 
 Le design n’a pas été finalisé dans le projet Xcode : rien n’est responsive 
 
@@ -9,6 +9,7 @@ L’architecture du projet ne respecte pas encore les bonnes pratiques de dével
 L’ensemble de l’application n’est pas testé
 
 Seul la soustraction et l’addition ont été faits, il manque la division et la multiplication
+
 
 
 Solutions :
